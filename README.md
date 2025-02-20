@@ -9,21 +9,21 @@
 
 ## Questions (KPIs and Graphs)
 KPI - 
-1- Total Employee
-2- Total Salary
-3- Total City
-4- Active Employees
-5- How many Employees left 
-6- Avg Salary of Employee
+- Total Employee
+- Total Salary
+- Total City
+- Active Employees
+- How many Employees left 
+- Avg Salary of Employee
 
 Graphs-
-1 - Department wise Total Employee and by gender
-2- Salary by Job Title
-3- Country Wise Total Employees
-4- Age Group wise Total Employees
-5- Count of Employees hired every year
-6- Total Salary by Business unit
-7- Department wise total salary
+- Department wise Total Employee and by gender
+- Salary by Job Title
+- Country Wise Total Employees
+- Age Group wise Total Employees
+- Count of Employees hired every year
+- Total Salary by Business unit
+- Department wise total salary
 
 - Dashboard Interaction <a href="https://github.com/Sanketk05/Power-Bi-Dashboard/blob/main/Screenshot%202025-02-20%20124344.png">View Dashboard</a>
 

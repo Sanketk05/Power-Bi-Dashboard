@@ -33,5 +33,16 @@ Graphs-
 - Created KPIs according to the questions asked.
 - Merge all KPIs into one dashboard and apply slicer to same dynamic.
 
-  ## Dashboard
+## Dashboard
+![Screenshot 2025-02-20 124344](https://github.com/user-attachments/assets/491bf507-08e8-4480-b3d1-ef5104256d26)
+
+## Project Insight
+- Highest Count of employees is observed in United States and least in Brazil
+- Highest count of employee age group wise (45-55)age - 29.6%
+- Least count of employee age group wise (65-100)age - 1.5%
+- Highest count of employees Department wise IT male(122) and female(119)
+- Total Employees(1000) and Active Employees(915)
+
+  
+
 
